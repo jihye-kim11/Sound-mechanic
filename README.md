@@ -48,5 +48,8 @@ The objective is to build a service that can help car owners identifier car issu
 
 ## Flowchart
 ![image](https://user-images.githubusercontent.com/59490892/119289199-1a216300-bc85-11eb-9c62-5b7454266c2b.png)
-
+ * server: Flask
+ * web: html
+ * App: android studio(java)
+ * DB: MySQL
 
