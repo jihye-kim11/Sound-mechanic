@@ -31,14 +31,6 @@ The objective is to build a service that can help car owners identifier car issu
 
 
    ![01](./01.jpg)   
-   click diagnose button   
-      
-   ![02](./02.jpg)   
-   record engine sound   
-      
-   ![03](./03.jpg)   
-   CAR ISSUE LIST   
-   
 
 
       
