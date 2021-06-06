@@ -26,7 +26,7 @@ The objective is to build a service that can help car owners identifier car issu
   * Track use of classifier
      
 ## User interface
-   **View Details** -> [MD-Android](https://github.com/jihye-kim11/MD_Mobile)
+  ### **View Details** -> [MD-Android](https://github.com/jihye-kim11/MD_Mobile)
 
 
 
