@@ -28,8 +28,7 @@ The objective is to build a service that can help car owners identifier car issu
 ## User interface
 [MD-Android](https://github.com/jihye-kim11/MD_Mobile)
 
-
-https://user-images.githubusercontent.com/59490892/120914244-b7de4e80-c6d7-11eb-97b4-d78610b6a7e9.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59490892/120914280-15729b00-c6d8-11eb-924e-92f48f458e95.gif)
 
 
 
