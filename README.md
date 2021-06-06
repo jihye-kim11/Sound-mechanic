@@ -37,16 +37,9 @@ The objective is to build a service that can help car owners identifier car issu
    record engine sound   
       
    ![03](./03.jpg)
-   result   
+   CAR ISSUE LIST   
    
 
-<img src = "https://user-images.githubusercontent.com/59490892/120914343-9f226880-c6d8-11eb-9a7e-0607ec300aa4.gif" width="200px">
-<img src = "https://user-images.githubusercontent.com/59490892/120914358-d55fe800-c6d8-11eb-8ea0-e9939fb900b6.gif" width="200px">
-<img src = "https://user-images.githubusercontent.com/59490892/120914362-d8f36f00-c6d8-11eb-8578-93d66bf3165e.gif" width="200px">
-   
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59490892/120914343-9f226880-c6d8-11eb-9a7e-0607ec300aa4.gif)
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/59490892/120914358-d55fe800-c6d8-11eb-8ea0-e9939fb900b6.gif)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59490892/120914362-d8f36f00-c6d8-11eb-8578-93d66bf3165e.gif)
 
       
       
