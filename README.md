@@ -36,7 +36,6 @@ The objective is to build a service that can help car owners identifier car issu
    record engine sound   
       
    ![03](./03.jpg)
-   ![KakaoTalk_20210606_144803359](https://user-images.githubusercontent.com/59490892/120914043-62557200-c6d6-11eb-9ab6-13069b756a51.jpg)
 
    result   
       
