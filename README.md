@@ -28,8 +28,6 @@ The objective is to build a service that can help car owners identifier car issu
 ## User interface
 [MD-Android](https://github.com/jihye-kim11/MD_Mobile)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59490892/120914280-15729b00-c6d8-11eb-924e-92f48f458e95.gif){: width="100" height="100"}
-
 
 
    ![01](./01.jpg)   
@@ -39,8 +37,12 @@ The objective is to build a service that can help car owners identifier car issu
    record engine sound   
       
    ![03](./03.jpg)
-
    result   
+   
+   <img src = "./img/2_8.jpeg" width="40%">
+   <img src = "https://user-images.githubusercontent.com/59490892/120914343-9f226880-c6d8-11eb-9a7e-0607ec300aa4.gif" width="400px">
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59490892/120914343-9f226880-c6d8-11eb-9a7e-0607ec300aa4.gif)
+
       
       
 ## Used Library
